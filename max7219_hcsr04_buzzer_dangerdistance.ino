@@ -24,7 +24,7 @@ textPosition_t scrollAlign = PA_RIGHT;  // how to align the text
 #define echoPin  5
 #define buzzerPin 2
 #define maxDistance 100  //max distance in cm
-#define dangerDistance 5  //minimum distance in cm
+#define dangerDistance 5  //danger distance in cm
 
 char testStr[10] = { "" };
 String heightStr = "";
